@@ -140,7 +140,7 @@ address['zipCode'];
 // => 10004
 ```
 
-Bracket notation is a bit harder to read than dot notation, so we always default to the latter. However, there are two main situations in which to use bracket notation.
+Bracket notation is a bit harder to read than dot notation, so we always default to the former. However, there are two main situations in which to use bracket notation.
 
 #### With nonstandard keys
 If (for whatever reason) you need to use a nonstandard string as the key in an object, you'll only be able to access the properties with bracket notation. For example, this is a valid object:
