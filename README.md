@@ -258,7 +258,7 @@ circle['area'] = Math.PI * circle.radius ** 2;
 // => 78.53981633974483
 
 circle;
-// => { area: 78.53981633974483, circumference: 31.41592653589793, radius: 5 }
+// => { area: 78.53981633974483, circumference: 31.41592653589793, diameter: 10, radius: 5 }
 ```
 
 Multiple properties can have the same value...
